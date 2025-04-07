@@ -5,6 +5,7 @@ This project accompanies the blog post on [Adam Vs. AdamW](https://adelbennaceur
 ## 🚀 How to Run
 
 Make sure uv is installed (see [installation](https://docs.astral.sh/uv/getting-started/installation/)) and then run:
+
 To compare the optimizers:
 
 ```bash
